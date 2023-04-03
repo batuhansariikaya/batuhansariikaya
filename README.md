@@ -1,6 +1,6 @@
 # 💫 About Me:
 Merhaba Ben Batuhan.<br><br>
-
+.Net Core ile web projeleri geliştirmekteyim. Her gün yeni bir şeyler öğrenmek için gayret ediyorum.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhansarikaya/) 
